@@ -278,7 +278,7 @@ paths:
                   $ref: '#/components/schemas/AddressPayload'
       responses:
         '200':
-          description: Updated Address.
+          description: Update Address.
           content:
             application/vnd.api+json:
               schema:
